@@ -1,26 +1,24 @@
-<h1 align="center">Hi 👋, I'm Thvithran Krishnan</h1>
-<h3 align="center">A rookie backend developer , who just begin the journey</h3>
+# 💫 About Me:
+A rookie backend developer , who just begin the journey.<br><br>Interested in web development<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thvithran&label=Profile%20views&color=0e75b6&style=flat" alt="thvithran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thvithran" alt="thvithran" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thvithran_) 
 
-- 🔭 I’m currently working on **JavaScript Projects**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thvithran&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thvithran&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thvithran&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **projects**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thvithran&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **thvithrankrishnan7117@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/thvithran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thvithran_" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=thvithran&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thvithran&show_icons=true&locale=en&layout=compact" alt="thvithran" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thvithran&show_icons=true&locale=en" alt="thvithran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thvithran&" alt="thvithran" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
