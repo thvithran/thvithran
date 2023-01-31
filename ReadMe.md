@@ -1,5 +1,9 @@
 # 💫 About Me:
-A rookie backend developer , who just begin the journey.<br><br>Interested in web development<br>
+👋 Hi, I’m Thvithran
+📫I'm a Front End developer...
+👀 I’m interested in Website Development
+🌱 I’m currently learning JavaScript
+📫 Email: thvithrankrishnanan7117@gmail.com<br>
 
 
 ## 🌐 Socials:
