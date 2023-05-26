@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👋 Hi, I’m Thvithran
-📫I'm a Front End developer...
-👀 I’m interested in Website Development
-🌱 I’m currently learning JavaScript
+👋 Hi, I’m Thvithran<br>
+📫I'm a Front End developer [HTML,CSS] ...JavaScript loading.....<br>
+👀 I’m interested in Website Development<br>
+🌱 I’m currently learning JavaScript<br>
 📫 Email: thvithrankrishnanan7117@gmail.com<br>
 
 
