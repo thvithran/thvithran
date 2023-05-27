@@ -2,8 +2,9 @@
 
 👋 Hi, I’m Thvithran<br>
 📫I'm a Front End developer (Level : Advanced Beginner ---> Competent )<br>
-👀 I’m interested in Website Development<br>
-🌱 I’m currently learning JavaScript ![icons8-javascript-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27)
+![icons8-responsive-web-32](https://github.com/thvithran/thvithran/assets/73452153/779a28d2-4712-4c30-bf42-0c8e8d5b1305)
+ I’m interested in Website Development<br>
+![icons8-javascript-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27) I’m currently learning JavaScript 
 <br>
 📫 Email: thvithrankrishnanan7117@gmail.com<br>
 
