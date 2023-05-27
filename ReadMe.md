@@ -3,8 +3,7 @@
 👋 Hi, I’m Thvithran<br>
 📫I'm a Front End developer (Level : Advanced Beginner ---> Competent )<br>
 👀 I’m interested in Website Development<br>
-🌱 I’m currently learning JavaScript![js logo](https://github.com/thvithran/thvithran/assets/73452153/7a00338c-5d14-49d4-8f35-9628d6521cab)
-<br>
+🌱 I’m currently learning JavaScript https://img.icons8.com/?size=512&id=108784&format=png <br>
 📫 Email: thvithrankrishnanan7117@gmail.com<br>
 
 
