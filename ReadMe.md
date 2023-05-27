@@ -3,7 +3,7 @@
  ![icons8-working-with-a-laptop-16](https://github.com/thvithran/thvithran/assets/73452153/821426d3-bd51-4329-a19b-d4a7bc67ab50)
  Hi, I’m Thvithran<br>
 ![icons8-frontend-16](https://github.com/thvithran/thvithran/assets/73452153/81cd6511-fc50-432c-96b0-5ad6fd5762ff)
-I'm a Front End developer (Level : Advanced Beginner ---> Competent )<br>
+I'm a Front End Developer [Level : Advanced Beginner ---> Competent ]<br>
 ![icons8-responsive-web-16](https://github.com/thvithran/thvithran/assets/73452153/6ec9cc11-c110-4d13-8f7a-32116fef84f3)
  I’m interested in Website Development<br>
 ![icons8-javascript-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27) 
