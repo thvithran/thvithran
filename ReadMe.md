@@ -1,11 +1,12 @@
 # 💫 About Me:
 
 👋 Hi, I’m Thvithran<br>
-📫I'm a Front End developer (Level : Advanced Beginner ---> Competent )<br>
-![icons8-responsive-web-32](https://github.com/thvithran/thvithran/assets/73452153/779a28d2-4712-4c30-bf42-0c8e8d5b1305)
+![icons8-frontend-16](https://github.com/thvithran/thvithran/assets/73452153/81cd6511-fc50-432c-96b0-5ad6fd5762ff)
+I'm a Front End developer (Level : Advanced Beginner ---> Competent )<br>
+![icons8-responsive-web-16](https://github.com/thvithran/thvithran/assets/73452153/6ec9cc11-c110-4d13-8f7a-32116fef84f3)
  I’m interested in Website Development<br>
-![icons8-javascript-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27) I’m currently learning JavaScript 
-<br>
+![icons8-javascript-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27) 
+I’m currently learning JavaScript <br>
 📫 Email: thvithrankrishnanan7117@gmail.com<br>
 
 
