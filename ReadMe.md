@@ -6,7 +6,7 @@
 I'm a Front End Developer [ Level : Competent ]<br>
 ![icons8-responsive-web-16](https://github.com/thvithran/thvithran/assets/73452153/6ec9cc11-c110-4d13-8f7a-32116fef84f3)
  I’m interested in Website Development<br>
-![icons8-react-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27) 
+![icons8-reactjs-16](https://github.com/thvithran/thvithran/assets/73452153/d800e02a-8264-4ca3-bbdf-8ef5bde26f27) 
 I’m currently learning React JS <br>
 ![icons8-email-16](https://github.com/thvithran/thvithran/assets/73452153/eb84118e-9dcb-417d-b3b9-fc2c3c6e25c1)
  Email: thvithrankrishnanan7117@gmail.com<br>
