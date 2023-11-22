@@ -34,6 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thvithran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 
+![](https://github-profile-trophy.vercel.app/?username=thvithran&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 ###
 
 ###
