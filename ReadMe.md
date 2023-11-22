@@ -1,9 +1,5 @@
 <h1 align="center">THVITHRAN</h1>
-
 ###
-
-<br clear="both">
-
 <h2 align="center">Junior Frontend Developer  👨‍💻</h2>
 
 ###
