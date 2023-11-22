@@ -35,7 +35,10 @@
 </div>
 
 ## 
-![](https://github-profile-trophy.vercel.app/?username=thvithran&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<div>
+  ![](https://github-profile-trophy.vercel.app/?username=thvithran&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
 ###
 
 ###
@@ -61,6 +64,5 @@
 </div>
 
 ###
-😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
